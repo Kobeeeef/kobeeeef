@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [XDASH](https://github.com/Kobeeeef/XDASH)
 
-- 🌱 I’m currently learning **SQLLite**
+- 🌱 I’m currently learning **SQLite**
 
 - 👯 I’m looking to collaborate on [XBOT Robotics](https://github.com/Team488)
 

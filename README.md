@@ -3,14 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobeeeef" alt="kobeeeef" /></a> </p>
 
-- 🔭 I’m currently working on [XDASH](https://github.com/Kobeeeef/XDASH)
-
-- 🌱 I’m currently learning **SQLite**
-
-- 👯 I’m looking to collaborate on [XBOT Robotics](https://github.com/Team488)
-
-- 💬 Ask me about **NextJS, React, Networking**
-
 - 📫 How to reach me **kobelei335@gmail.com**
 
 - ⚡ Fun fact **I'm super goofy**

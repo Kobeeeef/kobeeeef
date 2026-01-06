@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kobe</h1>
 <h3 align="center">A passionate developer from Seattle, WA.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kobeeeef" alt="kobeeeef" /></a> </p>
-
 - 📫 How to reach me **kobelei335@gmail.com**
 
 - ⚡ Fun fact **I'm super goofy**

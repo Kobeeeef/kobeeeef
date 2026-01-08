@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kobe</h1>
-<h3 align="center">A passionate developer from Seattle, WA.</h3>
+<h1 align="center">Hi , I'm Kobe</h1>
 
 - 📫 How to reach me **kobelei335@gmail.com**
 
